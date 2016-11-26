@@ -1,0 +1,6 @@
+C:/intelFPGA_lite/16.1/tb_decoder.sv {0 {vlog -work work -sv -stats=none C:/intelFPGA_lite/16.1/tb_decoder.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_decoder
+** Error (suppressible): C:/intelFPGA_lite/16.1/tb_decoder.sv(6): (vlog-13169) Packed dimension must specify a range.
+
+} {} {}}
